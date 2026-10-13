@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh tapa agus a thiomáineann Eorpaigh?",
+  "subtitle": "Bíonn teorainneacha luais ar bhóithre tuaithe éagsúil ar fud an AE27, agus is gnách go mbíonn siad idir 60 agus 100 km/u.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is féidir go mbeadh teorainneacha níos airde nó níos ísle mar thoradh ar shrianta áitiúla agus ar aicmithe bóithre éagsúla.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "ADAC (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
