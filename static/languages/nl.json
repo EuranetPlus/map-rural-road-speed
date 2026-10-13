@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe hard rijden Europeanen?",
+  "subtitle": "De algemene maximumsnelheden op landwegen variëren binnen de EU27 en liggen doorgaans tussen de 60 en 100 km/u.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Lokale beperkingen en verschillende wegclassificaties kunnen leiden tot hogere of lagere snelheidslimieten.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "ADAC (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
