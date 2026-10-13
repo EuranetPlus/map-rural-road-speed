@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "À quelle vitesse conduisent les Européens ?",
+  "subtitle": "Les limitations de vitesse générales sur les routes rurales varient dans l'UE27, généralement de 60 à 100 km/h.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les restrictions locales et les différentes classifications des routes peuvent entraîner des limites plus ou moins élevées.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "ADAC (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
