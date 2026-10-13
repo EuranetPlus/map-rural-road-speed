@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak szybko jeżdżą Europejczycy?",
+  "subtitle": "Ogólne ograniczenia prędkości na drogach wiejskich różnią się na terenie UE-27 i wynoszą zazwyczaj od 60 do 100 km/h.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Lokalne ograniczenia i różne klasyfikacje dróg mogą skutkować wyższymi lub niższymi limitami.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "ADAC (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
