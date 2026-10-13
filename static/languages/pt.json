@@ -1,13 +1,11 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual a velocidade máxima que os europeus dirigem?",
+  "subtitle": "Os limites gerais de velocidade nas estradas rurais variam em toda a UE27, normalmente entre 60 e 100 km/h.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Restrições locais e diferentes classificações de estradas podem levar a limites mais altos ou mais baixos.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "ADAC (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
