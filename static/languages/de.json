@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie schnell fahren Europäer?",
+  "subtitle": "Die allgemeinen Geschwindigkeitsbegrenzungen auf ländlichen Straßen variieren innerhalb der EU27 und liegen typischerweise zwischen 60 und 100 km/h.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Örtliche Beschränkungen und unterschiedliche Straßenklassifizierungen können zu höheren oder niedrigeren Grenzwerten führen.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "ADAC (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
