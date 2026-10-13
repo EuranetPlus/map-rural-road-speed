@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka lujaa eurooppalaiset ajavat?",
+  "subtitle": "Yleiset nopeusrajoitukset maaseudulla vaihtelevat EU27-alueella ja ovat tyypillisesti 60–100 km/h.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Paikalliset rajoitukset ja erilaiset tieluokitukset voivat johtaa korkeampiin tai matalampiin rajoituksiin.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "ADAC (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
